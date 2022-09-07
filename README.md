@@ -1,6 +1,8 @@
 # Project Name
 > Lending Club Case Study Project
 
+## GIT Repository
+https://github.com/krsreedhar/LendingClubCaseStudy.git
 
 ## Table of Contents
 * [General Info](#general-information)
